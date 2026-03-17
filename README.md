@@ -26,4 +26,4 @@ python main.py
 Python, Tkinter, no other external libraries
 
 ## Time line
-Originally created in 2024, at 13 years old.
+Originally created in 2024, at 14 years old.
