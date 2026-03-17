@@ -25,4 +25,5 @@ python main.py
 ## Built with
 Python, Tkinter, no other external libraries
 
-Originally created in 2024
+## Time line
+Originally created in 2024, built at 13 years old.
