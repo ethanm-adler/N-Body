@@ -4,6 +4,8 @@ A real-time gravitational simulator built from scratch in Python, inspired by
 Liu Cixin's The Three-Body Problem. Simulates any number of bodies interacting 
 via Newtonian gravity, with no physics libraries, all mechanics implemented manually.
 
+![N-Body Simulation](n-body-gif.gif)
+
 ## Features
 - Simulate any number of bodies with custom mass, position, and velocity
 - Save and load simulation presets
